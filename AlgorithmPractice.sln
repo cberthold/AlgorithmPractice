@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree.Traversal.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree.Traversal.Recursive.Inorder", "src\BinarySearchTree.Traversal.Recursive.Inorder\BinarySearchTree.Traversal.Recursive.Inorder.csproj", "{C95FBC61-7DFC-4BD1-A589-26C61F4C1FD2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearchTree.Traversal.Recursive.Postorder", "src\BinarySearchTree.Traversal.Recursive.Postorder\BinarySearchTree.Traversal.Recursive.Postorder.csproj", "{1919F518-3009-4EF5-A599-98C7F43E57F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{C95FBC61-7DFC-4BD1-A589-26C61F4C1FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C95FBC61-7DFC-4BD1-A589-26C61F4C1FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C95FBC61-7DFC-4BD1-A589-26C61F4C1FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1919F518-3009-4EF5-A599-98C7F43E57F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1919F518-3009-4EF5-A599-98C7F43E57F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1919F518-3009-4EF5-A599-98C7F43E57F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1919F518-3009-4EF5-A599-98C7F43E57F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{177D4B97-67E0-42D1-AEB6-0A1ADE13C57F} = {792796E3-0B41-4384-877E-D355D42F317B}
 		{6DF6BC50-1C30-4B47-8F9F-21F652D1468B} = {792796E3-0B41-4384-877E-D355D42F317B}
 		{C95FBC61-7DFC-4BD1-A589-26C61F4C1FD2} = {792796E3-0B41-4384-877E-D355D42F317B}
+		{1919F518-3009-4EF5-A599-98C7F43E57F6} = {792796E3-0B41-4384-877E-D355D42F317B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9C80AFFD-3207-46A2-A126-01FF3FC3C978}
